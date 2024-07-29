@@ -10,12 +10,12 @@ export default function Home() {
   return (
     <div>
       <Head>
-        <title>Geist UI with NextJS</title>
+        <title>Portal</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <Page dotBackdrop width="800px" padding={0}>
         <Display
-          title="Geist UI"
+          title="Portal UI"
           caption={
             <>
               Welcome to{' '}

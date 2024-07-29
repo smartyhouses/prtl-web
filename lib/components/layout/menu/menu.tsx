@@ -102,7 +102,7 @@ const Menu: React.FC<unknown> = () => {
                     draggable={false}
                     title="Logo"
                   />
-                  Geist
+                  Портал
                 </a>
               </NextLink>
             </div>

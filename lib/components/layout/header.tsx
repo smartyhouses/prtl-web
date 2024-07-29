@@ -18,7 +18,7 @@ const PageHeader: React.FC<{ meta: Meta }> = ({ meta }) => {
   }, [meta.title])
   return (
     <Head>
-      <title>{capitalizeTitle}Geist UI</title>
+      <title>{capitalizeTitle}АО Портал</title>
     </Head>
   )
 }
