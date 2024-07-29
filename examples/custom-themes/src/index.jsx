@@ -5,7 +5,7 @@ import { greenTheme, redTheme } from './theme'
 import Home from './home'
 
 const App = () => {
-  const [theme, setTheme] = useState('light')
+  const [theme, setTheme] = useState('dark')
   return (
     <GeistProvider themes={[greenTheme, redTheme]} themeType={theme}>
       <CssBaseline />
